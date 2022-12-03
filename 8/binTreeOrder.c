@@ -20,7 +20,7 @@ typedef node_t tree_t;
 void print_preorder(tree_t *t) ;
 void print_postorder(tree_t *t) ;
 void print_inorder(tree_t *t) ;
-
+// .
 int main(void) {
   tree_t *t = NULL;
   int n, i;
